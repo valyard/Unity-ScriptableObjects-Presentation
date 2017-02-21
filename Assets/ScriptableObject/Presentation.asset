@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d36f140d93042978901db40338cdc8, type: 3}
+  m_Name: Presentation
+  m_EditorClassIdentifier: 
+  Slides:
+  - Scene: {fileID: 102900000, guid: 2e8ea5c4ce38845d397bfd6442d9adc5, type: 3}
+    Visible: 1
+    StartInPlayMode: 1

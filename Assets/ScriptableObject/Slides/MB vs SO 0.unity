@@ -124,8 +124,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.79714864}
   m_AnchorMax: {x: 1, y: 0.90010476}
-  m_AnchoredPosition: {x: 457.5, y: 0}
-  m_SizeDelta: {x: 915, y: 54}
+  m_AnchoredPosition: {x: 457.5, y: 37}
+  m_SizeDelta: {x: 915, y: 129}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &241870321
 MonoBehaviour:
@@ -148,11 +148,11 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: d92b43f19c75a4dcbbb01e0b8ccc21ad, type: 3}
-    m_FontSize: 80
+    m_FontSize: 108
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
-    m_MaxSize: 100
+    m_MaxSize: 140
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -323,7 +323,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.952091, y: 1}
-  m_AnchoredPosition: {x: -0.00079345703, y: 0.0000005649973}
+  m_AnchoredPosition: {x: -0.0007324219, y: 0.0000005649973}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &690834046
@@ -487,7 +487,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.4
-  m_Text: 'public class MyScript : MonoBehaviour
+  m_Text: 'public class MyScript : <b>MonoBehaviour</b>
 
     { ... }'
 --- !u!222 &761022070
@@ -693,7 +693,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.4
-  m_Text: 'public class MyScript : ScriptableObject
+  m_Text: 'public class MyScript : <b>ScriptableObject</b>
 
     { ... }'
 --- !u!222 &1665231208

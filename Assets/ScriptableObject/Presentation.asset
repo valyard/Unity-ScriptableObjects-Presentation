@@ -14,10 +14,10 @@ MonoBehaviour:
   Slides:
   - Scene: {fileID: 102900000, guid: 2e8ea5c4ce38845d397bfd6442d9adc5, type: 3}
     Visible: 1
-    StartInPlayMode: 1
+    StartInPlayMode: 0
   - Scene: {fileID: 102900000, guid: a379df2f5f411441782ee6d97b0b7505, type: 3}
     Visible: 1
-    StartInPlayMode: 1
+    StartInPlayMode: 0
   - Scene: {fileID: 102900000, guid: e6660a0924c0240bdb30c6b01ad63132, type: 3}
     Visible: 1
     StartInPlayMode: 0
@@ -25,5 +25,32 @@ MonoBehaviour:
     Visible: 1
     StartInPlayMode: 0
   - Scene: {fileID: 102900000, guid: a0d7d53e0c55540e48b0e0182e8874fb, type: 3}
+    Visible: 1
+    StartInPlayMode: 0
+  - Scene: {fileID: 102900000, guid: 7bc15a7132c1b4803bf570fa8301fa88, type: 3}
+    Visible: 1
+    StartInPlayMode: 0
+  - Scene: {fileID: 102900000, guid: 91079ea0824d64522a5c34137bd7b501, type: 3}
+    Visible: 1
+    StartInPlayMode: 0
+  - Scene: {fileID: 102900000, guid: 1dd56e0339f0148e3b22a8baf4d00b3e, type: 3}
+    Visible: 1
+    StartInPlayMode: 0
+  - Scene: {fileID: 102900000, guid: a54fe7d4f939d4f1abbf7a49944c2be2, type: 3}
+    Visible: 1
+    StartInPlayMode: 0
+  - Scene: {fileID: 102900000, guid: 3bf9c2ea0f43842c4ae27b2c8e44b040, type: 3}
+    Visible: 1
+    StartInPlayMode: 0
+  - Scene: {fileID: 102900000, guid: 5a7eeb63c94a74ca988b9ef7ca918a82, type: 3}
+    Visible: 1
+    StartInPlayMode: 1
+  - Scene: {fileID: 102900000, guid: 1c9151c4a233543b69f697e9b5f0cf6a, type: 3}
+    Visible: 1
+    StartInPlayMode: 1
+  - Scene: {fileID: 102900000, guid: db8f0688455964368ad3c176c4402e73, type: 3}
+    Visible: 1
+    StartInPlayMode: 0
+  - Scene: {fileID: 102900000, guid: 4e77df2f7c38a41bd864df9259d4ad08, type: 3}
     Visible: 1
     StartInPlayMode: 0
